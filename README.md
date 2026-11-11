@@ -1,8 +1,8 @@
 
 ##  Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
-## REG NUMBER: 212225230031
-## NAME: BHARATH S
+## REG NUMBER: 212225040275
+## NAME: NAVEEN A
 
 ## Aim :
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
